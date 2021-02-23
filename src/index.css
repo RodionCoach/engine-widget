@@ -4,11 +4,18 @@
 }
 
 #cycle-wrapper {
-  width: 780px;
+  width: 640px;
+  height: 460px;
   margin: 0 auto;
   position: relative;
   display: flex;
   justify-content: center;
+}
+
+#cycle-wrapper img{
+  width: 640px;
+  height: 360px;
+  margin: auto 0;
 }
 
 svg {
